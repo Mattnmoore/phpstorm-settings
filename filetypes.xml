@@ -19,6 +19,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="php53-cgi" type="PLAIN_TEXT" />
       <mapping pattern="SSFeaturesDtoFactory,php" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="frm" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
