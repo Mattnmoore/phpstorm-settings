@@ -6,13 +6,13 @@
       <mapping pattern="d_c1-2" type="PLAIN_TEXT" />
       <mapping pattern="delete_gl_csv" type="PLAIN_TEXT" />
       <mapping pattern="clear_status" type="PLAIN_TEXT" />
+      <mapping pattern="delete_mfg_program_files" type="PLAIN_TEXT" />
       <mapping pattern="NoTestModeException" type="PLAIN_TEXT" />
-      <mapping pattern="201602091541_add_promo_id_to_ads_table.sql" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="delete_po_files" type="PLAIN_TEXT" />
       <mapping pattern="delete_temp_images" type="PLAIN_TEXT" />
       <mapping pattern=".example.env" type="PLAIN_TEXT" />
-      <mapping pattern="delete_mfg_program_files" type="PLAIN_TEXT" />
+      <mapping pattern="201602091541_add_promo_id_to_ads_table.sql" type="PLAIN_TEXT" />
       <mapping pattern="d_c1-1" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
@@ -23,7 +23,6 @@
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="ibd" type="PLAIN_TEXT" />
-      <mapping ext="ex" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

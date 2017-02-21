@@ -38,7 +38,6 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -592,6 +591,30 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
+    <option name="ELIXIR_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="2678ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_CALLBACK">
+      <value>
+        <option name="FOREGROUND" value="301d99" />
+      </value>
+    </option>
+    <option name="ELIXIR_MACRO_CALL">
+      <value>
+        <option name="FOREGROUND" value="abecff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ELIXIR_SPECIFICATION">
+      <value>
+        <option name="FOREGROUND" value="82b1ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELIXIR_STRING" baseAttributes="DEFAULT_STRING" />
     <option name="ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="9373a5" />
