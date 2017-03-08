@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '[dinolytics] - .../app/app'" />
-    <option name="defaultScopeName" value="Directory '[dinolytics] - .../app/app'" />
+    <option name="customScope" value="Directory '[business-center-aws] - .../business-center'" />
+    <option name="defaultScopeName" value="Directory '[business-center-aws] - .../business-center'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[dinolytics] - .../app/app'" />
+    <option name="SEARCH_SCOPE" value="Directory '[business-center-aws] - .../business-center'" />
   </component>
 </application>
