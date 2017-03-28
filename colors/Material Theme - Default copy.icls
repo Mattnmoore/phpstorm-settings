@@ -612,6 +612,24 @@
       </value>
     </option>
     <option name="ELIXIR_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="ELM_DEFINITION_NAME">
+      <value>
+        <option name="FOREGROUND" value="82ff53" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELM_TYPE">
+      <value>
+        <option name="FOREGROUND" value="e8ec6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELM_TYPE_ANNOTATION_NAME">
+      <value>
+        <option name="FOREGROUND" value="ab40" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="9373a5" />

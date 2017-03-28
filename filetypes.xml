@@ -23,7 +23,6 @@
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="ibd" type="PLAIN_TEXT" />
-      <mapping ext="elm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
