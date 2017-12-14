@@ -6,6 +6,7 @@
       <mapping pattern="d_c1-1" type="PLAIN_TEXT" />
       <mapping pattern="delete_gl_csv" type="PLAIN_TEXT" />
       <mapping pattern="real" type="PLAIN_TEXT" />
+      <mapping pattern="ConvertHeafnetConnectionsToATD.php" type="PLAIN_TEXT" />
       <mapping pattern="delete_michelin_files" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="php53-cgi" type="PLAIN_TEXT" />
