@@ -9,7 +9,6 @@
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="ConvertHeafnetConnectionsToATD.php" type="PLAIN_TEXT" />
       <mapping pattern="delete_michelin_files" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="php53-cgi" type="PLAIN_TEXT" />
       <mapping pattern="clear_status" type="PLAIN_TEXT" />
       <mapping pattern="NoTestModeException" type="PLAIN_TEXT" />
@@ -17,6 +16,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="201602091541_add_promo_id_to_ads_table.sql" type="PLAIN_TEXT" />
       <mapping pattern="delete_mfg_program_files" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".example.env" type="PLAIN_TEXT" />
       <mapping pattern="delete_po_files" type="PLAIN_TEXT" />
       <mapping pattern="SSFeaturesDtoFactory,php" type="PLAIN_TEXT" />
@@ -27,6 +27,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="frm" type="PLAIN_TEXT" />
       <mapping ext="ibd" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
