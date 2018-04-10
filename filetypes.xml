@@ -12,6 +12,7 @@
       <mapping pattern="php53-cgi" type="PLAIN_TEXT" />
       <mapping pattern="clear_status" type="PLAIN_TEXT" />
       <mapping pattern="NoTestModeException" type="PLAIN_TEXT" />
+      <mapping pattern=".ssh_config" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="201602091541_add_promo_id_to_ads_table.sql" type="PLAIN_TEXT" />
