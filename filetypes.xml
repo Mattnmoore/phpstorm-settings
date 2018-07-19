@@ -33,6 +33,7 @@
       <mapping ext="ibd" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
