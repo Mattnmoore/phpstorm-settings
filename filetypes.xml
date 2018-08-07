@@ -23,6 +23,7 @@
       <mapping pattern="SSFeaturesDtoFactory,php" type="PLAIN_TEXT" />
       <mapping pattern="delete_gl_csv" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="cron" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="frm" type="PLAIN_TEXT" />
